@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CaptainSnuff
 - 👀 I’m interested in blockcahin programming as well as basic web development.
 - 🌱 I’m currently learning solidity and javascript :)
-- 📫 How to reach me at my email at dpancello@gmail.com
+- 📫 Reach me at my email at dpancello@gmail.com
